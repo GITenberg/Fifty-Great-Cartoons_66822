@@ -1,0 +1,32 @@
+_repo: Fifty-Great-Cartoons_66822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beard, Frank
+    aliases:
+    - Beard, F. (Frank)
+    - Beard, Thomas Francis
+    birthdate: 1842
+    deathdate: 1905
+    gutenberg_agent_id: '43263'
+    url: http://www.gutenberg.org/2009/agents/43263
+description: ''
+gutenberg_issued: '2021-11-26'
+identifiers:
+  gutenberg: '66822'
+language: en
+pgterms:marc904: https://archive.org/details/fiftygreatcartoo00bear/mode/2up
+pgterms:marc905: 20210714033626beard
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Brian Coe, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :The Ram's Horn Press,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fifty Great Cartoons
+url: http://www.gutenberg.org/ebooks/66822
